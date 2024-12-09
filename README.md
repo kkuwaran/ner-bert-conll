@@ -35,7 +35,7 @@ An end-to-end pipeline for Named Entity Recognition (NER) using Hugging Face's T
    ```
 
 3. **Download the CoNLL-2003 Dataset** <br>
-   Download the dataset files `eng.train`, `eng.testa`, and `eng.testb` from [Kaggle's CoNll-2003 dataset](https://www.kaggle.com/datasets/juliangarratt/conll2003-dataset). <br>
+   Download the dataset files `eng.train`, `eng.testa`, and `eng.testb` from [Kaggle's CoNLL-2003 dataset](https://www.kaggle.com/datasets/juliangarratt/conll2003-dataset). <br>
    Extract the dataset files if necessary and place them in the designated directory specified in the notebook (e.g., `data_path`).
 
 ---
